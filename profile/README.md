@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://elementeer.xyz">
-    <img src="https://elementeer.xyz/wp-content/uploads/2026/05/elementeer-logo.svg" alt="Elementeer" width="360">
+    <img src="https://elementeer.xyz/wp-content/uploads/2026/05/elementeer_invers_violetbg.svg" alt="Elementeer" width="360">
   </a>
 </p>
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://elementeer.xyz">Website</a> · <a href="https://github.com/elementeer/elementeer">Plugin</a> · <a href="https://github.com/elementeer/elementeer-mcp">MCP Server</a>
+  <a href="https://elementeer.xyz">Website</a> · <a href="https://github.com/elementeer/elementeer">Plugin</a> · <a href="https://github.com/elementeer/elementeer-mcp">MCP Server</a> · <a href="https://docs.elementeer.xyz">Docs</a>
 </p>
 
 ---
@@ -97,14 +97,13 @@ elementeer-mcp init
 
 ---
 
-### Ecosystem
+### Open Source Repositories
 
 | Repo | Description | License |
 |------|-------------|---------|
 | [elementeer/elementeer](https://github.com/elementeer/elementeer) | WordPress Plugin | GPL-2.0 |
 | [elementeer/elementeer-mcp](https://github.com/elementeer/elementeer-mcp) | MCP Server (111+ tools) | Apache-2.0 |
-| [elementeer/elementeer-bridge](https://github.com/elementeer/elementeer-bridge) | HTML → Elementor Conversion | Apache-2.0 |
-| [elementeer/elementeer-ops](https://github.com/elementeer/elementeer-ops) | Testing Environment | Apache-2.0 |
+| [elementeer/elementeer-docs](https://github.com/elementeer/elementeer-docs) | Public Documentation | — |
 
 ---
 
